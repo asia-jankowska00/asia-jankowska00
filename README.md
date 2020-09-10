@@ -7,7 +7,8 @@
 🌮 Also fantastic cook (friends can confirm) 🤞 <br>
 
 
-You can view my school-related projects over <a href="https://github.com/joanna-00">here</a>
+You can view my school-related projects over <a href="https://github.com/joanna-00">here</a>, or head over to my <a href="https://asia-jankowska00.github.io/">portfolio website 
+🚀</a>
 
 ### ⚙️ Some of my favorite tech
 - ReactJS & Styled-Components
