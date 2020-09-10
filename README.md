@@ -7,6 +7,8 @@
 🌮 Also fantastic cook (friends can confirm) 🤞 <br>
 
 
+You can view my school-related projects over <a href="https://github.com/joanna-00">here</a>
+
 ### ⚙️ Some of my favorite tech
 - ReactJS & Styled-Components
 - NodeJS & Express
