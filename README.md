@@ -1,10 +1,10 @@
 # Hello! I'm Joanna ✨ 
 
-💻 Full stack web developer with a passion for React 💖
-🎨 Strong UI/UX skills 💪
-🎓 Studying Multimedia Design at UCN in Aalborg 🇩🇰
-🔨 Always working on some cool new project 👓
-🌮 Also fantastic cook (friends can confirm) 🤞
+💻 Full stack web developer with a passion for React 💖 <br>
+🎨 Strong UI/UX skills 💪 <br>
+🎓 Studying Multimedia Design at UCN in Aalborg 🇩🇰 <br>
+🔨 Always working on some cool new project 👓 <br>
+🌮 Also fantastic cook (friends can confirm) 🤞 <br>
 
 
 ### ⚙️ Some of my favorite tech
