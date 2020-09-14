@@ -9,7 +9,7 @@
 
 🌱 Currently working on ... <a href="https://github.com/afbogdan/budget-planner/">budget-planner</a>
 
-You can view my school-related projects over <a href="https://github.com/joanna-00">here</a>, or head over to my <a href="https://asia-jankowska00.github.io/">portfolio website 
+To view all of my projects live, head over to my <a href="https://asia-jankowska00.github.io/">portfolio website 
 🚀</a>
 
 ### ⚙️ Some of my favorite tech
