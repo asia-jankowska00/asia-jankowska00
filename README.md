@@ -15,7 +15,7 @@ To view all of my projects live, head over to my <a href="https://asia-jankowska
 ### ⚙️ Some of my favorite tech
 - ReactJS & Styled-Components
 - NodeJS & Express
-- HTML & CSS
+- HTML & SCSS
 - JavaScript & Typescript
 - MongoDB & Firebase
 #
