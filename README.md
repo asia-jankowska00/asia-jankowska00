@@ -1,6 +1,6 @@
 # Hello! I'm Joanna ✨ 
 
-💻 Frontend-focused full stack web developer with a passion for React 💖 <br>
+💻 Frontend-focused full stack JavaScript developer with a passion for React 💖 <br>
 🎨 Strong UI/UX design skills 💪 <br>
 🎓 Studying Multimedia Design at UCN in Aalborg 🇩🇰 <br>
 🔨 Always working on some cool new project 👓 <br>
